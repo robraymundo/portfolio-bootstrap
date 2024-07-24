@@ -1,0 +1,17 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'General Sans', sans-serif !important;
+}
+
+.bg-custom {
+    background-color: #09112C;
+}
+
+.card:hover {
+    background-color: #f2f2f2;
+}
